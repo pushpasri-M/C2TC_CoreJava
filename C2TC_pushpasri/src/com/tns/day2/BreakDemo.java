@@ -6,9 +6,8 @@ public class BreakDemo {
 		// TODO Auto-generated method stub
 		for (int i = 5; i < 10; i++) { 
 			   if (i == 5) 
-			       break; 
-			    System.out.println(i); 
-			  } 
+			    break; 
+			   System.out.println(i);
 	}
-
+	}
 }
